@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is my first project using React. Users are able to upload their own dogs and facts to the game. 
+
 ## Available Scripts
 
 In the project directory, you can run:
