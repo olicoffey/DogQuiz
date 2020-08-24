@@ -1,0 +1,11 @@
+.AddDogForm {
+    width: 80%;
+    margin: 50px 10%;
+}
+.AddDogForm_input {
+    margin-bottom: 20px;
+}
+
+.AddDogForm_input > label {
+    display: block;
+}
